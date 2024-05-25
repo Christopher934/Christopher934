@@ -1,4 +1,4 @@
-<img src="https://github.com/Christopher934/Christopher934/assets/112535475/c0ad1e6f-1207-4d1f-943a-85fda001ed73" width="1000" height="400"/>
+<img src="https://github.com/Christopher934/Christopher934/assets/112535475/79573ee8-6ec2-4625-8873-75731b31ebbe" width="1000" height="400"/>
 
 <br>
 
@@ -54,7 +54,7 @@ I am committed to making a significant contribution to the field of Front-End De
 
 <br>
 
-<img align="right" src="https://github.com/Christopher934/Christopher934/assets/112535475/d4527c40-4d67-46cf-8d80-587aca570c03" width="400" height="440"/>
+<img align="right" src="https://github.com/Christopher934/Christopher934/assets/112535475/38c9fe44-b720-4652-bdac-c89c81d3baaf" width="400" height="440"/>
 
 <h3 align="left">Languages and Tools :</h3>
 <br/>
