@@ -54,7 +54,7 @@ I am committed to making a significant contribution to the field of Front-End De
 
 <br>
 
-<img align="right" src="https://github.com/Christopher934/Christopher934/assets/112535475/38c9fe44-b720-4652-bdac-c89c81d3baaf" width="400" height="440"/>
+<img align="right" src="https://github.com/Christopher934/Christopher934/assets/112535475/38c9fe44-b720-4652-bdac-c89c81d3baaf" width="300" height="320"/>
 
 <h3 align="left">Languages and Tools :</h3>
 <br/>
